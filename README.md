@@ -27,8 +27,8 @@ Nykaa Clone is a project inspired by the popular e-commerce platform Nykaa. It s
 I am always open to collaboration and new opportunities. If you have any questions, suggestions, or if you want to discuss potential projects, feel free to reach out to me:
 
 - **Email**: work.dipanshu.singh@gmail.com
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dipanshu-singh-dev.github.io)
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-singh-dev/)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ds-gits-it.github.io)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ds-gits-it)
 ## Github Stats:
 [![GitHub Streak](https://is-Potato.vercel.app?user=Dipanshu-Singh-Dev&theme=dark)](https://git.io/streak-stats)
 
