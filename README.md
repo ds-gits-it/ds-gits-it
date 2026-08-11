@@ -30,6 +30,6 @@ I am always open to collaboration and new opportunities. If you have any questio
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ds-gits-it.github.io)
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ds-gits-it)
 ## Github Stats:
-[![GitHub Streak](https://is-Potato.vercel.app?user=Dipanshu-Singh-Dev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://is-Potato.vercel.app?user=ds-gits-it&theme=dark)](https://git.io/streak-stats)
 
 Let's create amazing web experiences together! 🚀
